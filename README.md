@@ -56,7 +56,7 @@ Hi, I'm [Erik Rio Setiawan!](https://erikrios.github.io/), a passionate self-tau
 ```text
 Kotlin        22 hr 48 mins  █████████████░░░░░░░░░░░░   45.46 % 
 Dart          14 hr 54 mins  ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-JavaScript    13 hr 22 mins  ██████░░░░░░░░░░░░░░░░░░░   21.46 % 
+JavaScript    13 hr 24 mins  ██████░░░░░░░░░░░░░░░░░░░   21.46 % 
 Java          2 hr 18 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Other         20 min         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
