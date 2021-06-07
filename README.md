@@ -55,7 +55,7 @@ Hi, I'm [Erik Rio Setiawan!](https://erikrios.github.io/), a passionate self-tau
 <!--START_SECTION:waka-->
 ```text
 Kotlin        22 hr 48 mins  █████████████░░░░░░░░░░░░   45.46 % 
-Dart          14 hr 55 mins  ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Dart          14 hr 58 mins  ███████░░░░░░░░░░░░░░░░░░   26.49 % 
 JavaScript    13 hr 24 mins  ██████░░░░░░░░░░░░░░░░░░░   21.46 % 
 Java          2 hr 18 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Other         20 min         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
