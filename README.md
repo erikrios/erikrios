@@ -15,7 +15,7 @@
 <a href="#">
   <img align="left" alt="Erik's NPM" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
 </a>
-<a href="https://#/">
+<a href="#">
   <img align="left" alt="Erik's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
