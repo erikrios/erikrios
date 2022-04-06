@@ -52,16 +52,7 @@ Hi, I'm [Erik Rio Setiawan!](https://erikrios.github.io/), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-Kotlin        22 hr 50 mins  █████████████░░░░░░░░░░░░   45.46 % 
-Dart          14 hr 59 mins  ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-JavaScript    13 hr 32 mins  ██████░░░░░░░░░░░░░░░░░░░   21.46 % 
-Java          2  hr  44 min  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Other         29 min         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-```
-<!--END_SECTION:waka-->
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erikrios&layout=compact&langs_count=8&theme=algolia"/>
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
