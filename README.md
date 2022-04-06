@@ -52,7 +52,12 @@ Hi, I'm [Erik Rio Setiawan!](https://erikrios.github.io/), a passionate self-tau
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erikrios&layout=compact&langs_count=8&theme=algolia"/>
+<p align="left">
+<a href="https://github.com/erikrios">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erikrios&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erikrios&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
