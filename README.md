@@ -6,8 +6,8 @@
 <a href="erikrios#1547">
   <img align="left" alt="Erik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="#">
-  <img align="left" alt="Erik Rio Setiawan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://leetcode.com/erikrios/">
+  <img align="left" alt="Erik's Leetcode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/erikriosetiawan/">
   <img align="left" alt="Erik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
