@@ -7,7 +7,7 @@
   <img align="left" alt="Erik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://leetcode.com/erikrios/">
-  <img align="left" alt="Erik's Leetcode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Erik's Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />
 </a>
 <a href="https://www.linkedin.com/in/erikriosetiawan/">
   <img align="left" alt="Erik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
