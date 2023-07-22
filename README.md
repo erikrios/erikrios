@@ -4,19 +4,19 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="erikrios#1547">
-  <img align="left" alt="Erik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Erik's Discord" width="22px" src="https://cdn.simpleicons.org/discord" />
 </a>
 <a href="https://leetcode.com/erikrios/">
-  <img align="left" alt="Erik's Leetcode" width="22px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" />
+  <img align="left" alt="Erik's Leetcode" width="22px" src="https://cdn.simpleicons.org/leetcode" />
 </a>
 <a href="https://www.linkedin.com/in/erikriosetiawan/">
-  <img align="left" alt="Erik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Erik's LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="#">
-  <img align="left" alt="Erik's NPM" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
+  <img align="left" alt="Erik's NPM" width="22px" src="https://cdn.simpleicons.org/npm" />
 </a>
 <a href="#">
-  <img align="left" alt="Erik's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Erik's YouTube" width="22px" src="https://cdn.simpleicons.org/youtube" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=erikrios.erikrios)
