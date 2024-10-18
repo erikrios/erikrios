@@ -30,7 +30,7 @@ Hi, I'm [Erik Rio Setiawan!](https://erikrios.github.io/), a passionate self-tau
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter and Go; 
+- 🌱 I’m currently learning Flutter, Go, and Rust; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erikriosetiawan/);
 - 📝[Resume](https://erikrios.github.io)
